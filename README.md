@@ -4,5 +4,5 @@ Olá, eu sou o Gabriel, tenho 20 anos e sou de Belo Horizonte. Sou um graduando 
 
 Contatos: 
 - gabriel9lourenco@gmail.com
-- linkedin.com/in/gabriellourenco12
+- www.linkedin.com/in/gabriellourenco12
           
