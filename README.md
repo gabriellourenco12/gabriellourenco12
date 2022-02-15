@@ -1,5 +1,6 @@
 
-Olá, eu sou o Gabriel, tenho 21 anos e sou de Belo Horizonte. Sou um aluno da UFMG e técnico em Informática (SENAI), estou procurando meu primeiro emprego na área de dados. Sou fascinado nas diversas possibilidades que a tecnologia pode nos fornecer e ainda sigo uma filosofia Data Driven, pois sou apaixonado no que os dados podem nos dizer. Aliando isso a minha mente empreendedora, busco estar em constante aprendizado.
+Olá, eu sou o Gabriel, tenho 21 anos e sou de Belo Horizonte. 
+Sou estudande de Ciências da Computação na UFMG e técnico em Informática (SENAI). Atualmente trabalho como desenvolvedor Back-End Java no Banco Inter.
 
 
 Contatos: 
