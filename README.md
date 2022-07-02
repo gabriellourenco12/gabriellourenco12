@@ -4,6 +4,6 @@ Sou estudande de Ciências da Computação na UFMG e técnico em Informática (S
 
 
 Contatos: 
-- gabriel9lourenco@gmail.com
+- gabriellourenco12ti@gmail.com
 - www.linkedin.com/in/gabriellourenco12
           
