@@ -41,7 +41,7 @@ public class Skills extends Desenvolvedor {
 </a>
 
 <a href="https://github.com/gabriellourenco12">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabriellourenco12&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabriellourenco12&show_icons=true&theme=dracula&line_height=27" alt="GabrielLourenco12"/>
 </a>
 
 [email]: mailto:gabriel9lourenco@gmail.com
