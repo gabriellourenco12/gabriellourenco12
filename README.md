@@ -18,8 +18,9 @@ public class SobreMim extends Desenvolvedor {
 }
 
 public class Skills extends Desenvolvedor {
-  private String[] linguagens = ['Java', 'Html', 'CSS', 'JavaScript'];
-  private String[] frameworks = ['Spring Boot', 'Micronaut', 'Hibernate'];
+  private String[] linguagens = ['Java', 'React', 'JavaScript'];
+  private String[] frameworks = ['Spring Framework', 'Micronaut', 'Hibernate'];
+  private String[] skills = ['Design Patterns', 'Mensageria', 'AWS'];
 }
 ```
 
